@@ -35,6 +35,8 @@ h2 {
 ul, ol, li { 
 	font-family: 'Didot';
 	letter-spacing: .07em;
+	list-style-position: inside;
+	text-align: center;
 	}
 
 img {
