@@ -1,0 +1,40 @@
+body { 
+	background-color: #F7F4EF; 
+}
+
+h1 { 
+	text-align: center;
+	font-size: 80px;
+	letter-spacing: .2em;
+	font-family: 'Didot';
+	background-color: #FFFFFF;
+	color: #F07060;
+	line-height: 2.5em;
+	;
+}	
+
+
+
+p {
+	text-align: center;
+	font-family: 'Didot';
+	line-height: 1.75em;
+	letter-spacing: .1em;
+
+}
+
+
+h2 { 
+	text-align: center;
+	letter-spacing: .25em;
+	line-height: 3em;
+	font-family: 'Futura';
+	font-size: 30px;
+	color: #F07060;
+
+}
+
+ul, ol, li { 
+	font-family: 'Didot';
+	letter-spacing: .07em;
+	}
